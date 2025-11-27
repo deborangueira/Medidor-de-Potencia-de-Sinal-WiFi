@@ -1,0 +1,1 @@
+# Medi-o-de-Potencia-de-Sinal-WiFi
