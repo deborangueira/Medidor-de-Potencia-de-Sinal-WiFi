@@ -5,4 +5,4 @@ Nessa atividade, o intuito foi coletar dados referentes ao sinal do Wifi em dBm 
 ![gráficos](graficos_wifi.png)
 *Figura 1 – Gráficos de linha e Gauge*
 
-Clique [aqui]() para acessar o código, e [aqui]() para assistir o vídeo que demonstra o comportamento do Wifi pelo campus da faculdade. 
+Clique [aqui](https://github.com/deborangueira/Medidor-de-Potencia-de-Sinal-WiFi/blob/main/script.ino) para acessar o código, e [aqui]() para assistir o vídeo que demonstra o comportamento do Wifi pelo campus da faculdade. 
